@@ -2198,7 +2198,9 @@ StScrollBar {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6); }
 
 #lockDialogGroup {
-  background-color: #282828; }
+  background: url(file:///usr/share/backgrounds/gnome/adwaita-night.png);
+  background-repeat: no-repeat;
+}
 
 #unlockDialogNotifications StButton#vhandle, #unlockDialogNotifications StButton#hhandle {
   background-color: rgba(53, 53, 53, 0.3); }
